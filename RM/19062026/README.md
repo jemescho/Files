@@ -1,2 +1,3 @@
-- [Paradigms of Research.ppt](./Paradigms%20of%20Research.ppt) by Dr. Archana Tomar 
-- [Nature, Types and Scope of Research.pptx](./Nature,%20Types%20and%20Scope%20of%20Research.pptx) by Dr. R. L. Madhavi 
+- Prof. Ashutosh Biswal - Understanding Research (Not provided)
+- Dr. Archana Tomar - [Paradigms of Research](./Paradigms%20of%20Research.pptx)
+- Dr. R. L. Madhavi - [Scope, Nature & Types of Research (Basic & Applied)](./Nature,%20Types%20and%20Scope%20of%20Research.pptx)
