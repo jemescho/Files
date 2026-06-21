@@ -1,0 +1,3 @@
+- Dr. Sonia Rajput - [Methods of Educational Research](./Dr.%20Sonia%20-methods%20of%20Edu%20Research%20-%20PHD%20course%20work%20-RM-20-6-2026.pptx)
+- Dr. Pratiksha Modi - [Types of Research Quantitative](./ppt%20on%20types%20of%20resaerch%20-quantitative.pptx)
+- Dr. Deepika Rajawat - [Types of Research Qualitative](./Types_of_Qualitative_Research_Dr.DeepikaRajawat_20_6_26.pdf)
